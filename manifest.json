@@ -1,0 +1,9 @@
+﻿{
+	"name": "METAL_PIPE_FALLING",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Watch out!",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.0"
+	]
+}
